@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <div style="text-align: justify;">
+    <div>
       <p>邮箱：wanyuhang_muse08@163.com</p>
       <p>地址：陕西省西安市碑林区雁塔路中段13号西安建筑科技大学雁塔校区</p>
       <p>邮编：710055</p>
@@ -20,7 +20,16 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-<div style="text-align: justify; display: flow-root;">
+<style>
+  /* 仅在 ≥768px 的大屏让简介待在左栏；手机窄屏自动回到上下堆叠 */
+  @media (min-width: 768px) {
+    .about-bio {
+      display: flow-root;
+    }
+  }
+</style>
+
+<div class="about-bio" style="text-align: justify;">
 <p>Yuhang Wan (b. 1999) is a Ph.D. candidate in the Department of Urban and Rural Planning, <a href="https://arch.xauat.edu.cn/">School of Architecture, Xi'an University of Architecture and Technology</a>. His research focuses on urban science and urban–rural sociology.</p>
 
 <p>万雨杭（1999— ），<a href="https://arch.xauat.edu.cn/">西安建筑科技大学建筑学院</a> 城乡规划系博士研究生，研究方向为城市科学与城乡社会学。</p>
