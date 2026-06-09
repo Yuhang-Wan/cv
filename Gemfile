@@ -1,4 +1,7 @@
 source 'https://rubygems.org'
+# Ruby 3.4+ removed these from the default gems; jekyll-scholar/citeproc-ruby need them
+gem 'observer'
+gem 'ostruct'
 group :jekyll_plugins do
     gem 'classifier-reborn'
     gem 'jekyll'

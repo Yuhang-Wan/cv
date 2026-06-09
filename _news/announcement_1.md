@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-05-25 12:00:00+0800
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Presented at the 2026 Doctoral Student Forum of the School of Architecture, Tsinghua University.<br>参加 2026 年清华大学建筑学院博士生论坛并作现场汇报。

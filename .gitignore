@@ -11,3 +11,7 @@ assets/libs/
 node_modules/
 vendor
 .idea
+
+# 本地素材，不需要上传到仓库
+pic/
+wyh.jpg

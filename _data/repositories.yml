@@ -1,14 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Yuhang-Wan
 
 repo_description_lines_max: 2
 
-github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+# 想在页面上展示具体仓库时，取消下面的注释，按 “用户名/仓库名” 添加：
+# github_repos:
+#   - Yuhang-Wan/your-repo-name
