@@ -30,9 +30,9 @@ social: true # includes social icons at the bottom of the page
 </style>
 
 <div class="about-bio" style="text-align: justify;">
-<p>Yuhang Wan (b. 1999) is a Ph.D. candidate in the Department of Urban and Rural Planning, <a href="https://arch.xauat.edu.cn/">School of Architecture, Xi'an University of Architecture and Technology</a>. His research focuses on urban science and urban–rural sociology.</p>
+<p>Yuhang Wan (b. 1999) is a Ph.D. candidate in the Department of Urban and Rural Planning, <a href="https://arch.xauat.edu.cn/">School of Architecture, Xi'an University of Architecture and Technology</a>. His research focuses on urban science and urban–rural sociology. His advisor is Prof. <a href="https://xajzkj.teacher.360eol.com/teacherBasic/preview?teacherId=21192">Darui Tian</a>.</p>
 
-<p>万雨杭（1999— ），<a href="https://arch.xauat.edu.cn/">西安建筑科技大学建筑学院</a> 城乡规划系博士研究生，研究方向为城市科学与城乡社会学。</p>
+<p>万雨杭（1999— ），<a href="https://arch.xauat.edu.cn/">西安建筑科技大学建筑学院</a> 城乡规划系博士研究生，研究方向为城市科学与城乡社会学。导师是 <a href="https://xajzkj.teacher.360eol.com/teacherBasic/preview?teacherId=21192">田达睿</a> 教授。</p>
 
 <p>Research areas: (1) Urban science: small-world networks, spatial modeling and simulation, human spatial mobility, and robot-friendly cities; (2) Urban–rural sociology: community-specific “behavior–space” regularities, low- and middle-income groups, inequality and spatial segregation, county-level urbanization, and urban–rural dual residence.</p>
 

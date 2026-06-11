@@ -72,6 +72,12 @@ layout: default
       </div>
     {% endif %}
 
+    <!-- 网站访问统计 (vercount, 兼容不蒜子的写法) -->
+    <div class="text-center text-muted mt-4" style="font-size: 0.85rem;">
+      <script defer src="https://events.vercount.one/js"></script>
+      Total views <span id="vercount_value_site_pv">…</span> &nbsp;·&nbsp; Unique visitors <span id="vercount_value_site_uv">…</span>
+    </div>
+
     {% if site.newsletter.enabled and site.footer_fixed %}
       {% include scripts/newsletter.liquid center=true %}
     {% endif %}
