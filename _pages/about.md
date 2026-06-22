@@ -38,6 +38,10 @@ social: true # includes social icons at the bottom of the page
 
 <p>研究具体方向：（1）城市科学：小世界模型、空间建模与模拟、人口空间流动、机器人友好城市；（2）城乡社会学：社群特定“行为—空间”规律、中低收入人群、不平等与空间隔离、县域城镇化、城乡双栖。</p>
 
+<p>He was named a University-Level Outstanding Graduate of Xi'an University of Architecture and Technology, and his master's thesis was selected as a University-Level Outstanding Master's Thesis.</p>
+
+<p>曾获西安建筑科技大学校级优秀毕业生、优秀硕士学位论文。</p>
+
 <p>He has published three papers, all selected by CNKI Academic Essentials (January–June 2026) as High-PCSI, Highly-Cited, and Highly-Downloaded articles. He has presented at the Bowang Youth Forum of Northwest University (2024) and the Doctoral Student Forum of the School of Architecture, Tsinghua University (2026).</p>
 
 <p>已发表论文 3 篇，入选知网学术精要（2026 年 1—6 月）高 PCSI 论文、高被引论文、高下载论文。曾在西北大学博望青年论坛（2024）、清华大学建筑学院博士生论坛（2026）作报告。</p>
