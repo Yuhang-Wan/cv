@@ -42,9 +42,9 @@ social: true # includes social icons at the bottom of the page
 
 <p>曾获西安建筑科技大学校级优秀毕业生、优秀硕士学位论文。</p>
 
-<p>He has published three papers, all selected by CNKI Academic Essentials (January–June 2026) as High-PCSI, Highly-Cited, and Highly-Downloaded articles. He has presented at the Bowang Youth Forum of Northwest University (2024) and the Doctoral Student Forum of the School of Architecture, Tsinghua University (2026).</p>
+<p>He has published three papers, all selected by CNKI Academic Essentials (January–June 2026) as High-PCSI, Highly-Cited, and Highly-Downloaded articles. He has presented at the Bowang Youth Forum of Northwest University (2024), the Doctoral Student Forum of the School of Architecture, Tsinghua University (2026), and the International Conference on Urban Science and Intelligence (ICUSI 2026).</p>
 
-<p>已发表论文 3 篇，入选知网学术精要（2026 年 1—6 月）高 PCSI 论文、高被引论文、高下载论文。曾在西北大学博望青年论坛（2024）、清华大学建筑学院博士生论坛（2026）作报告。</p>
+<p>已发表论文 3 篇，入选知网学术精要（2026 年 1—6 月）高 PCSI 论文、高被引论文、高下载论文。曾在西北大学博望青年论坛（2024）、清华大学建筑学院博士生论坛（2026）、城市科学与智能国际会议（ICUSI 2026）作报告。</p>
 
 <p>He has participated in two General Programs of the National Natural Science Foundation of China, one Youth Innovation Team research program of the Shaanxi Provincial Department of Education, and five provincial-, ministerial-, and university-level research projects. He has also contributed to more than ten planning projects, including the High-Quality Development Plan for Shaanxi Development Zones, the Master Plan Revision of the Mount Hua Scenic Area, the Shanxi Provincial Plan for the Conservation and Transmission of Urban–Rural Historical and Cultural Heritage, the conservation plans for historic cities, towns, villages, and districts of Qinghai Province, the National Historic and Cultural City application for Mizhi, the Conservation Plan for the Historic District of Mizhi County, and the Urban Renewal Special Plan for Liuba County.</p>
 
